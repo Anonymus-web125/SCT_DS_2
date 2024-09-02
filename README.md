@@ -27,3 +27,8 @@ Ensure you have the necessary Python packages installed (e.g., pandas, matplotli
 Open the Jupyter notebook (SCT_DS_2.ipynb) and run the cells to replicate the analysis.
 ### Conclusion
 This project demonstrates the importance of thorough data cleaning and exploratory analysis before delving into more complex modeling tasks. By carefully examining the dataset, we can uncover valuable insights and set a solid foundation for any further analysis.
+### Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+### Contact
+For any questions or feedback, feel free to contact me at bikashkumargiri23@gmail.com.
